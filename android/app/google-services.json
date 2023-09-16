@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521747956395",
+    "project_id": "contactfromassig",
+    "storage_bucket": "contactfromassig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521747956395:android:58a4481300cad731932dee",
+        "android_client_info": {
+          "package_name": "com.example.contactform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2cgeFej5Bgisrksbe--YBEiVSaUF4Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
